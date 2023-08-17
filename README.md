@@ -118,7 +118,7 @@ Model output data
 
 **Metadata  Tags**
 
-- [ ] this submission  includes model output data
+- [X] this submission  includes model output data
 
 > **Note**
 > If the above box is ticked, the M@TE team will contact you with details for uploading data. Please fill out the **Metadata fields** Tables below.  Please describe output data files using the **File Description** Table. 
@@ -131,7 +131,7 @@ Field | Value | Notes
 **Spatial extents (if applicable)** | | ---
 **Local NCI file path** | Completed once data are available on NCI Geonetwork Catalog | 
 **DOI (NCI Internal Field)** |Completed once data are available on NCI Geonetwork Catalog | 
-**additional notes** | E.g., output data ar saved at time/step increments of (100 Kyr) |
+**additional notes** | E.g., output data are saved at time/step increments of (100 Kyr) |
 
 
 > **Note**
