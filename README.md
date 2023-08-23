@@ -141,44 +141,43 @@ Field | Value | Notes
 
 Filename/pattern | Description | Notes
 --- | --- | ---
-ArcTracers_Arc_nodes_velocity_Y-*.h5 ||
-CratonTracers-*.h5 ||
-timeField-*.h5 ||
-OPTracers_Time_OP-*.h5 ||
-CratonTracers_Time_SP-*.h5 ||
-projTimeField-*.h5 ||
-ArcTracers-*.xdmf ||
-SPTracers-*.xdmf ||
-ArcTracers_global_index-*.h5 ||
-SPTracers_Subducting_plate_velocity_Y-*.h5 ||
-plasticStrain-*.h5 ||
-CratonTracers_Cratonic_overriding_plate_velocity_Y-*.h5 ||
-ArcTracers_Arc_nodes_velocity_X-*.h5 ||
-CratonTracers_global_index-*.h5 ||
-projStressField-*.h5 ||
-velocityField-*.h5 ||
-CratonTracers-*.xdmf ||
-XDMF.fields.00*.xmf ||
-pressureField-*.h5 ||
-OPTracers-*.h5 ||
-swarm-*.h5 ||
-ArcTracers-*.h5 ||
-OPTracers_global_index-*.h5 ||
-SPTracers-*.h5 ||
-strainRateField-*.h5 ||
-SPTracers_Subducting_plate_velocity_X-*.h5 ||
-SPTracers_Time_SP-*.h5 ||
-XDMF.swarms.00*.xmf ||
-OPTracers-*.xdmf ||
-projStressTensor-*.h5 ||
-projPlasticStrain-*.h5 ||
-materialField-*.h5 ||
-SPTracers_global_index-*.h5 ||
-projMaterialField-*.h5 ||
-projViscosityField-*.h5 ||
-projDensityField-*.h5 ||
-ArcTracers_Time_Arc-*.h5 ||
-CratonTracers_Cratonic_overriding_plate_velocity_X-*.h5 ||
+XDMF.fields.00*.xmf | | 
+XDMF.swarms.00*.xmf | |
+materialField-*.h5 | |
+plasticStrain-*.h5 | |
+pressureField-*.h5 | |
+projDensityField-*.h5 | |
+projMaterialField-*.h5 | |
+projPlasticStrain-*.h5 | |
+projStressField-*.h5 | |
+projStressTensor-*.h5 | |
+projTimeField-*.h5 | |
+projViscosityField-*.h5 | |
+strainRateField-*.h5 | |
+swarm-*.h5 | |
+timeField-*.h5 | |
+velocityField-*.h5 | |
+ArcTracers-*.h5 | |
+ArcTracers-*.xdmf | |
+ArcTracers_Arc_nodes_velocity_X-*.h5 | |
+ArcTracers_Arc_nodes_velocity_Y-*.h5 | |
+ArcTracers_Time_Arc-*.h5 | |
+ArcTracers_global_index-*.h5 | |
+CratonTracers-*.h5 | |
+CratonTracers-*.xdmf | |
+CratonTracers_Cratonic_overriding_plate_velocity_X-*.h5 | |
+CratonTracers_Cratonic_overriding_plate_velocity_Y-*.h5 | |
+CratonTracers_Time_SP-*.h5 | |
+CratonTracers_global_index-*.h5 | |
+OPTracers-*.h5 | |
+OPTracers-*.xdmf | |
+OPTracers_Time_OP-*.h5 | |
+OPTracers_global_index-*.h5 | |
+SPTracers-*.h5 | |
+SPTracers-*.xdmf | |
+SPTracers_Subducting_plate_velocity_X-*.h5 | |
+SPTracers_Subducting_plate_velocity_Y-*.h5 | |
+SPTracers_Time_SP-*.h5 | |
 
 
 </p>
