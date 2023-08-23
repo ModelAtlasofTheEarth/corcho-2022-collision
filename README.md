@@ -141,57 +141,44 @@ Field | Value | Notes
 
 Filename/pattern | Description | Notes
 --- | --- | ---
-XDMF.fields.00**.xmf | | 
-XDMF.swarms.00**.xmf | | 
-pressureField-**.h5 | | 
-projDensityField-**.h5 | | 
-projMaterialField-**.h5 | | 
-projMeltField-**.h5 | | 
-projPlasticStrain-**.h5 | | 
-projStressField-**.h5 | | 
-projStressTensor-**.h5 | | 
-projTimeField-**.h5 | | 
-projViscosityField-**.h5 | | 
-strainRateField-**.h5 | | 
-test_timestep_** | | 
-velocityField-**.h5 | | 
-ArcTracers-**.h5 | | 
-ArcTracers-**.xdmf | | 
-ArcTracers_Arc nodes velocity_X-**.h5  | | 
-ArcTracers_Arc nodes velocity_Y-**.h5 | | 
-ArcTracers_Arc stress tensor_X-**.h5 | | 
-ArcTracers_Arc stress tensor_XY-**.h5 | | 
-ArcTracers_Arc stress tensor_Y-**.h5 | | 
-ArcTracers_Time_Arc-**.h5 | | 
-ArcTracers_arc overriding plate strain rate-**.h5 | | 
-ArcTracers_arc overriding plate stress Field-**.h5 | | 
-ArcTracers_global_index-**.h5 | | 
-CratonTracers-**.h5 | | 
-CratonTracers-**.xdmf | | 
-CratonTracers_Craton stress tensor_X-**.h5  | | 
-CratonTracers_Craton stress tensor_XY-**.h5 | | 
-CratonTracers_Craton stress tensor_Y-**.h5 | | 
-CratonTracers_Cratonic overriding plate velocity _X-**.h5 | | 
-CratonTracers_Cratonic overriding plate velocity_Y-**.h5  | | 
-CratonTracers_Time_SP-**.h5 | | 
-CratonTracers_global_index-**.h5 | | 
-OPTracers-**.h5 | | 
-OPTracers-**.xdmf | | 
-OPTracers_Time_OP-**.h5 | | 
-OPTracers_Weak overriding plate strain rate-**.h5  | | 
-OPTracers_Weak overriding plate stress Field-**.h5 | | 
-OPTracers_Weak overriding plate stress tensor_X-**.h5 | | 
-OPTracers_Weak overriding plate stress tensor_XY-**.h5 | | 
-OPTracers_Weak overriding plate stress tensor_Y-**.h5 | | 
-OPTracers_Weak overriding plate velocity_X-**.h5 | | 
-OPTracers_Weak overriding plate velocity_Y-**.h5 | | 
-OPTracers_global_index-**.h5 | | 
-SPTracers-**.h5 | | 
-SPTracers-**.xdmf | | 
-SPTracers_Subducting plate velocity_X-**.h5 | | 
-SPTracers_Subducting plate velocity_Y-**.h5 | | 
-SPTracers_Time_SP-**.h5 | | 
-SPTracers_global_index-**.h5 | | 
+ArcTracers_Arc_nodes_velocity_Y-*.h5 ||
+CratonTracers-*.h5 ||
+timeField-*.h5 ||
+OPTracers_Time_OP-*.h5 ||
+CratonTracers_Time_SP-*.h5 ||
+projTimeField-*.h5 ||
+ArcTracers-*.xdmf ||
+SPTracers-*.xdmf ||
+ArcTracers_global_index-*.h5 ||
+SPTracers_Subducting_plate_velocity_Y-*.h5 ||
+plasticStrain-*.h5 ||
+CratonTracers_Cratonic_overriding_plate_velocity_Y-*.h5 ||
+ArcTracers_Arc_nodes_velocity_X-*.h5 ||
+CratonTracers_global_index-*.h5 ||
+projStressField-*.h5 ||
+velocityField-*.h5 ||
+CratonTracers-*.xdmf ||
+XDMF.fields.00*.xmf ||
+pressureField-*.h5 ||
+OPTracers-*.h5 ||
+swarm-*.h5 ||
+ArcTracers-*.h5 ||
+OPTracers_global_index-*.h5 ||
+SPTracers-*.h5 ||
+strainRateField-*.h5 ||
+SPTracers_Subducting_plate_velocity_X-*.h5 ||
+SPTracers_Time_SP-*.h5 ||
+XDMF.swarms.00*.xmf ||
+OPTracers-*.xdmf ||
+projStressTensor-*.h5 ||
+projPlasticStrain-*.h5 ||
+materialField-*.h5 ||
+SPTracers_global_index-*.h5 ||
+projMaterialField-*.h5 ||
+projViscosityField-*.h5 ||
+projDensityField-*.h5 ||
+ArcTracers_Time_Arc-*.h5 ||
+CratonTracers_Cratonic_overriding_plate_velocity_X-*.h5 ||
 
 
 </p>
