@@ -43,7 +43,7 @@ https://github.com/dansand/corcho_2022_collision_test/tree/main/model_reproducti
 
 Documentation and tutorials are available on the [User Documentation](/docs) page, and include:
 
-* Downloading model data from NCI GeoNetwork
-* Interacting with model via ARE (Australia Researh Environment)
-* Visualisation and analyiss of M@TE data  with PyVista
-* Submitting model data to M@TE
+* [Downloading]() model data from NCI GeoNetwork
+* [Accessign]() with model via ARE (Australia Research Environment)
+* [Visualisation]() of M@TE data  with PyVista
+* [Submitting]() model data to M@TE
