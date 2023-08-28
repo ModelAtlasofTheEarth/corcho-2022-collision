@@ -4,7 +4,7 @@ slug: 'corcho-2022-collision'
 title: 'The Role of Lithospheric-Deep Mantle Interactions on the Style and Stress Evolution of Arc-Continent Collision'
 date: 2023-28-08T15:04:10.000Z
 featuredpost: false
-featuredimage: ./web_files/landing_image.pdf
+featuredimage: ./landing_image.pdf
 keywords: collision, subduction, accretion
 for code: 3706,370604
 status: completed
