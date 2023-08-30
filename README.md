@@ -128,11 +128,11 @@ Model output data
 Field | Value | Notes
 --- | --- | ---
 **Summary of dataset** | This dataset includes 2 end-member models from the larger suite of models described in Corcho et al., 2022. The models simulate arc-continent collision in a two-dimensional box, 3,600 km long and 800 km deep. The 2 end-member models have arc terranes with 25 km and 35 km thick crust respectively.   The models were developed using the particle-in-cell, finite element code Underworld2/UWGeodynamics version 2.9.6 (Beucher et al., 2019; Mansour et al., 2020). See associated publication for further implementation details and reference. The data are stored in HDF files with .xdmf/.xml files enabling a mapping between HDF arrays and VTK data structures. The .xdmf/.xml can be read into Paraview (tested with version 5.8.0, using the "XDMF Reader"), as well as the Python vtk library and associated packages such as Pyvista. The README.md file provides more information on the dataset and files. The dataset may be useful for further research as well as education purposes.|
+**additional notes** | Information and references for sources and processes that were used to create the dataset |
 **Temporal extents (if applicable)** | | ---
 **Spatial extents (if applicable)** | | ---
 **Local NCI file path** | Completed once data are available on NCI Geonetwork Catalog | 
 **DOI (NCI Internal Field)** |Completed once data are available on NCI Geonetwork Catalog | 
-**additional notes** | E.g., output data are saved at time/step increments of (100 Kyr) |
 
 
 > **Note**
