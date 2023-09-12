@@ -29,5 +29,6 @@ animations:
   - ./animation_35.gif
 dataset access:
   - DOI
-Input files: -  https://github.com/dansand/corcho_2022_collision_test/tree/main/model_reproduction_files
+Input files:
+  -  https://github.com/dansand/corcho_2022_collision_test/tree/main/model_reproduction_files
 ---  
