@@ -1,3 +1,4 @@
+---
 templateKey: 'model'
 slug: 'corcho-2022-collision'
 title: 'The Role of Lithospheric-Deep Mantle Interactions on the Style and Stress Evolution of Arc-Continent Collision'
@@ -29,4 +30,4 @@ animations:
 dataset access:
   - DOI
 Input files: -  https://github.com/dansand/corcho_2022_collision_test/tree/main/model_reproduction_files
-  
+---  
